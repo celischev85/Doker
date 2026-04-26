@@ -11,9 +11,6 @@
       <change afterPath="$PROJECT_DIR$/../BDD/src/test/java/ru/netology/page/LoginPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BDD/src/test/java/ru/netology/page/TopUpPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../BDD/src/test/java/ru/netology/page/VerificationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../datechange/src/test/java/ru/netology/DataGenerator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../datechange/src/test/java/ru/netology/UserInfo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../testmode/src/test/java/ru/netology/DataGenerator.java" afterDir="false" />
@@ -26,7 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
